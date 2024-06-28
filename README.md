@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FellypeSouza&layout=compact&theme=transparent)
 -->
 <div>
-  <img src="./background.jpg" alt="Background"/>
+  <img src="./backgroundd.jpg" alt="Background"/>
 </div>
 <h1></h1>
 <br/>
