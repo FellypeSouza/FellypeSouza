@@ -27,7 +27,7 @@
   <h4>Cursando 2 semestre em Análise e Desenvolvimento de Sistemas (previsão de conclusão para Agosto 2025). Tenho conhecimentos em Engenharia de Software I (Metodologias Ágeis), Lógica de Programação, Fundamentos de Redes, etc. </h4>
 </div>
 <br>
-<h1 align="center">Technology Stack</h1>
+<h1 align="center">Tecnologias</h1>
 
 <br>
 <p align="center">
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<h1 align="center">Stats</h1>
+<h1 align="center">Estatísticas</h1>
 
 <br>
 <div align="center">
