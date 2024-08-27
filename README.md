@@ -23,9 +23,14 @@
   <a href="mailto:fellypedev22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 <br>
-<div>
-  <h2 align="center">Sempre aprendendo algo novo.</h2>
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h1> Sempre aprendendo algo novo. </h1>
+    </summary>
+  </ul>
 </div>
+
 <br>
 <h1 align="center">Tecnologias</h1>
 
