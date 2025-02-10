@@ -1,29 +1,21 @@
-<!-- ### Olá, Seja Bem Vindo! 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellype-souza-32a083261/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fellypedev22@gmail.com)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/fellypessouza/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/FellypeSouza/)
-
-
-![Fellype GitHub stats](https://github-readme-stats.vercel.app/api?username=FellypeSouza&show_icons=true&theme=dark)
-<div style="display: flex;justify-content:center;"><br/>
-<img  alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img  alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img  alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img  alt="reactjs" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
-<img  alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FellypeSouza&layout=compact&theme=transparent)
--->
 <div>
   <img src="./backgroundd.jpg" alt="Background"/>
 </div>
 <h1></h1>
 <br/>
 <div align="center">
-  <a href="https://www.linkedin.com/in/fellype-souza-32a083261/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:fellypedev22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fellype-souza-32a083261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:fellypedev22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.codewars.com/users/fellypessouza/">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/FellypeSouza/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+  </a>
 </div>
 <br>
 <div id="toc" align="center">
