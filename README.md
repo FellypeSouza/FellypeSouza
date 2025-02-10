@@ -14,7 +14,10 @@
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/FellypeSouza/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" href=""/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/fellypedev22">
+    <img src="https://img.shields.io/badge/HackerRank-107C10?style=for-the-badge&logo=HackerRank&logoColor=black"/>
   </a>
 </div>
 <br>
