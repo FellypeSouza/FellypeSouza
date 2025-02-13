@@ -10,13 +10,13 @@
   <a href="mailto:fellypedev22@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.codewars.com/users/fellypessouza/">
+  <a href="https://www.codewars.com/users/fellypessouza/" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/FellypeSouza/">
+  <a href="https://leetcode.com/u/FellypeSouza/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" href=""/>
   </a>
-  <a href="https://www.hackerrank.com/profile/fellypedev22">
+  <a href="https://www.hackerrank.com/profile/fellypedev22" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-107C10?style=for-the-badge&logo=HackerRank&logoColor=black"/>
   </a>
 </div>
