@@ -7,7 +7,7 @@
   <h2>Sobre mim</h2>
   <ul>
     <li><b>Formação</b>: Análise e desenvolvimento de sistemas</li>
-    <li><b>Habilidades</b>: HTML, CSS, SCSS, Javascript, ReactJS, C#</li>
+    <li><b>Habilidades</b>: HTML, CSS, SCSS, Javascript, Angular, C#</li>
     <li><b>Idiomas</b>: Português (nativo), Inglês (Intermediário)</li>
   </ul>
 </div>
