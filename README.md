@@ -30,18 +30,13 @@
     <li><b>Idiomas</b>: Português (nativo), Inglês (Intermediário)</li>
   </ul>
   <div>
-    <div align="left">
+    <div align="center">
 <img alt="Faizan's GitHub stats" width="450" src="https://github-readme-stats.vercel.app/api?username=FellypeSouza&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
 <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellypeSouza&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
 </div>
   <h2>Tecnologias</h2>
   <div>
-    <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,angular,c,cs,git,github">
   </div>
 </div>
   <h2>Plataformas de coding</h2>
